@@ -1,0 +1,11 @@
+/Users/tmc802/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/StudentDailyReport/StudentDailyReport/obj/Debug/netcoreapp2.1/StudentDailyReport.csprojAssemblyReference.cache
+/Users/tmc802/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/StudentDailyReport/StudentDailyReport/obj/Debug/netcoreapp2.1/StudentDailyReport.csproj.CoreCompileInputs.cache
+/Users/tmc802/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/StudentDailyReport/StudentDailyReport/obj/Debug/netcoreapp2.1/StudentDailyReport.AssemblyInfoInputs.cache
+/Users/tmc802/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/StudentDailyReport/StudentDailyReport/obj/Debug/netcoreapp2.1/StudentDailyReport.AssemblyInfo.cs
+/Users/tmc802/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/StudentDailyReport/StudentDailyReport/bin/Debug/netcoreapp2.1/StudentDailyReport.deps.json
+/Users/tmc802/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/StudentDailyReport/StudentDailyReport/bin/Debug/netcoreapp2.1/StudentDailyReport.runtimeconfig.json
+/Users/tmc802/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/StudentDailyReport/StudentDailyReport/bin/Debug/netcoreapp2.1/StudentDailyReport.runtimeconfig.dev.json
+/Users/tmc802/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/StudentDailyReport/StudentDailyReport/bin/Debug/netcoreapp2.1/StudentDailyReport.dll
+/Users/tmc802/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/StudentDailyReport/StudentDailyReport/bin/Debug/netcoreapp2.1/StudentDailyReport.pdb
+/Users/tmc802/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/StudentDailyReport/StudentDailyReport/obj/Debug/netcoreapp2.1/StudentDailyReport.dll
+/Users/tmc802/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/StudentDailyReport/StudentDailyReport/obj/Debug/netcoreapp2.1/StudentDailyReport.pdb
