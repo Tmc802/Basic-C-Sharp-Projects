@@ -1,0 +1,11 @@
+/Users/tmc802/Projects/WhileWithBoolean/WhileWithBoolean/bin/Debug/netcoreapp2.1/WhileWithBoolean.deps.json
+/Users/tmc802/Projects/WhileWithBoolean/WhileWithBoolean/bin/Debug/netcoreapp2.1/WhileWithBoolean.runtimeconfig.json
+/Users/tmc802/Projects/WhileWithBoolean/WhileWithBoolean/bin/Debug/netcoreapp2.1/WhileWithBoolean.runtimeconfig.dev.json
+/Users/tmc802/Projects/WhileWithBoolean/WhileWithBoolean/bin/Debug/netcoreapp2.1/WhileWithBoolean.dll
+/Users/tmc802/Projects/WhileWithBoolean/WhileWithBoolean/bin/Debug/netcoreapp2.1/WhileWithBoolean.pdb
+/Users/tmc802/Projects/WhileWithBoolean/WhileWithBoolean/obj/Debug/netcoreapp2.1/WhileWithBoolean.csprojAssemblyReference.cache
+/Users/tmc802/Projects/WhileWithBoolean/WhileWithBoolean/obj/Debug/netcoreapp2.1/WhileWithBoolean.csproj.CoreCompileInputs.cache
+/Users/tmc802/Projects/WhileWithBoolean/WhileWithBoolean/obj/Debug/netcoreapp2.1/WhileWithBoolean.AssemblyInfoInputs.cache
+/Users/tmc802/Projects/WhileWithBoolean/WhileWithBoolean/obj/Debug/netcoreapp2.1/WhileWithBoolean.AssemblyInfo.cs
+/Users/tmc802/Projects/WhileWithBoolean/WhileWithBoolean/obj/Debug/netcoreapp2.1/WhileWithBoolean.dll
+/Users/tmc802/Projects/WhileWithBoolean/WhileWithBoolean/obj/Debug/netcoreapp2.1/WhileWithBoolean.pdb

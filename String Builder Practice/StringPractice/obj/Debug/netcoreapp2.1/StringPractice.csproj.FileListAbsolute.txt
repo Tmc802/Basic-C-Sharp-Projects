@@ -1,0 +1,11 @@
+/Users/tmc802/Projects/StringPractice/StringPractice/bin/Debug/netcoreapp2.1/StringPractice.deps.json
+/Users/tmc802/Projects/StringPractice/StringPractice/bin/Debug/netcoreapp2.1/StringPractice.runtimeconfig.json
+/Users/tmc802/Projects/StringPractice/StringPractice/bin/Debug/netcoreapp2.1/StringPractice.runtimeconfig.dev.json
+/Users/tmc802/Projects/StringPractice/StringPractice/bin/Debug/netcoreapp2.1/StringPractice.dll
+/Users/tmc802/Projects/StringPractice/StringPractice/bin/Debug/netcoreapp2.1/StringPractice.pdb
+/Users/tmc802/Projects/StringPractice/StringPractice/obj/Debug/netcoreapp2.1/StringPractice.csprojAssemblyReference.cache
+/Users/tmc802/Projects/StringPractice/StringPractice/obj/Debug/netcoreapp2.1/StringPractice.csproj.CoreCompileInputs.cache
+/Users/tmc802/Projects/StringPractice/StringPractice/obj/Debug/netcoreapp2.1/StringPractice.AssemblyInfoInputs.cache
+/Users/tmc802/Projects/StringPractice/StringPractice/obj/Debug/netcoreapp2.1/StringPractice.AssemblyInfo.cs
+/Users/tmc802/Projects/StringPractice/StringPractice/obj/Debug/netcoreapp2.1/StringPractice.dll
+/Users/tmc802/Projects/StringPractice/StringPractice/obj/Debug/netcoreapp2.1/StringPractice.pdb
