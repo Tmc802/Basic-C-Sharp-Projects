@@ -1,0 +1,11 @@
+/Users/tmc802/Projects/WelcomePackageExpress/WelcomePackageExpress/obj/Debug/netcoreapp2.1/WelcomePackageExpress.csprojAssemblyReference.cache
+/Users/tmc802/Projects/WelcomePackageExpress/WelcomePackageExpress/obj/Debug/netcoreapp2.1/WelcomePackageExpress.csproj.CoreCompileInputs.cache
+/Users/tmc802/Projects/WelcomePackageExpress/WelcomePackageExpress/obj/Debug/netcoreapp2.1/WelcomePackageExpress.AssemblyInfoInputs.cache
+/Users/tmc802/Projects/WelcomePackageExpress/WelcomePackageExpress/obj/Debug/netcoreapp2.1/WelcomePackageExpress.AssemblyInfo.cs
+/Users/tmc802/Projects/WelcomePackageExpress/WelcomePackageExpress/bin/Debug/netcoreapp2.1/WelcomePackageExpress.deps.json
+/Users/tmc802/Projects/WelcomePackageExpress/WelcomePackageExpress/bin/Debug/netcoreapp2.1/WelcomePackageExpress.runtimeconfig.json
+/Users/tmc802/Projects/WelcomePackageExpress/WelcomePackageExpress/bin/Debug/netcoreapp2.1/WelcomePackageExpress.runtimeconfig.dev.json
+/Users/tmc802/Projects/WelcomePackageExpress/WelcomePackageExpress/bin/Debug/netcoreapp2.1/WelcomePackageExpress.dll
+/Users/tmc802/Projects/WelcomePackageExpress/WelcomePackageExpress/bin/Debug/netcoreapp2.1/WelcomePackageExpress.pdb
+/Users/tmc802/Projects/WelcomePackageExpress/WelcomePackageExpress/obj/Debug/netcoreapp2.1/WelcomePackageExpress.dll
+/Users/tmc802/Projects/WelcomePackageExpress/WelcomePackageExpress/obj/Debug/netcoreapp2.1/WelcomePackageExpress.pdb
