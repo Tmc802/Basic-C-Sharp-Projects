@@ -1,0 +1,11 @@
+/Users/tmc802/Projects/MyFirstCSproject/MyFirstCSproject/bin/Debug/netcoreapp2.1/MyFirstCSproject.deps.json
+/Users/tmc802/Projects/MyFirstCSproject/MyFirstCSproject/bin/Debug/netcoreapp2.1/MyFirstCSproject.runtimeconfig.json
+/Users/tmc802/Projects/MyFirstCSproject/MyFirstCSproject/bin/Debug/netcoreapp2.1/MyFirstCSproject.runtimeconfig.dev.json
+/Users/tmc802/Projects/MyFirstCSproject/MyFirstCSproject/bin/Debug/netcoreapp2.1/MyFirstCSproject.dll
+/Users/tmc802/Projects/MyFirstCSproject/MyFirstCSproject/bin/Debug/netcoreapp2.1/MyFirstCSproject.pdb
+/Users/tmc802/Projects/MyFirstCSproject/MyFirstCSproject/obj/Debug/netcoreapp2.1/MyFirstCSproject.csprojAssemblyReference.cache
+/Users/tmc802/Projects/MyFirstCSproject/MyFirstCSproject/obj/Debug/netcoreapp2.1/MyFirstCSproject.csproj.CoreCompileInputs.cache
+/Users/tmc802/Projects/MyFirstCSproject/MyFirstCSproject/obj/Debug/netcoreapp2.1/MyFirstCSproject.AssemblyInfoInputs.cache
+/Users/tmc802/Projects/MyFirstCSproject/MyFirstCSproject/obj/Debug/netcoreapp2.1/MyFirstCSproject.AssemblyInfo.cs
+/Users/tmc802/Projects/MyFirstCSproject/MyFirstCSproject/obj/Debug/netcoreapp2.1/MyFirstCSproject.dll
+/Users/tmc802/Projects/MyFirstCSproject/MyFirstCSproject/obj/Debug/netcoreapp2.1/MyFirstCSproject.pdb
