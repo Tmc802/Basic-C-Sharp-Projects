@@ -1,0 +1,11 @@
+/Users/tmc802/Projects/CarInsuranceApprovalForm/CarInsuranceApprovalForm/bin/Debug/netcoreapp2.1/CarInsuranceApprovalForm.deps.json
+/Users/tmc802/Projects/CarInsuranceApprovalForm/CarInsuranceApprovalForm/bin/Debug/netcoreapp2.1/CarInsuranceApprovalForm.runtimeconfig.json
+/Users/tmc802/Projects/CarInsuranceApprovalForm/CarInsuranceApprovalForm/bin/Debug/netcoreapp2.1/CarInsuranceApprovalForm.runtimeconfig.dev.json
+/Users/tmc802/Projects/CarInsuranceApprovalForm/CarInsuranceApprovalForm/bin/Debug/netcoreapp2.1/CarInsuranceApprovalForm.dll
+/Users/tmc802/Projects/CarInsuranceApprovalForm/CarInsuranceApprovalForm/bin/Debug/netcoreapp2.1/CarInsuranceApprovalForm.pdb
+/Users/tmc802/Projects/CarInsuranceApprovalForm/CarInsuranceApprovalForm/obj/Debug/netcoreapp2.1/CarInsuranceApprovalForm.csprojAssemblyReference.cache
+/Users/tmc802/Projects/CarInsuranceApprovalForm/CarInsuranceApprovalForm/obj/Debug/netcoreapp2.1/CarInsuranceApprovalForm.csproj.CoreCompileInputs.cache
+/Users/tmc802/Projects/CarInsuranceApprovalForm/CarInsuranceApprovalForm/obj/Debug/netcoreapp2.1/CarInsuranceApprovalForm.AssemblyInfoInputs.cache
+/Users/tmc802/Projects/CarInsuranceApprovalForm/CarInsuranceApprovalForm/obj/Debug/netcoreapp2.1/CarInsuranceApprovalForm.AssemblyInfo.cs
+/Users/tmc802/Projects/CarInsuranceApprovalForm/CarInsuranceApprovalForm/obj/Debug/netcoreapp2.1/CarInsuranceApprovalForm.dll
+/Users/tmc802/Projects/CarInsuranceApprovalForm/CarInsuranceApprovalForm/obj/Debug/netcoreapp2.1/CarInsuranceApprovalForm.pdb

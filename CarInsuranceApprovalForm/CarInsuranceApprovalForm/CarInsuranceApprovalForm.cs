@@ -22,7 +22,7 @@ namespace CarInsuranceApprovalForm
             string numOfSpeedingTix = Console.ReadLine();
             int numOfSpeedtix = Convert.ToInt32(numOfSpeedingTix);
 
-            // applicants must have no more than 3 speeding tickets
+            // applicants must no more than 3 speeding tickets
 
             Console.WriteLine("Qualified?");
             Console.WriteLine(ageAnswer1 > 15 && hadDui == false && numOfSpeedtix <= 3);
