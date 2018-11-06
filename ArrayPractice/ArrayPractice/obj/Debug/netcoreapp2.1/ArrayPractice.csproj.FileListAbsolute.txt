@@ -1,0 +1,11 @@
+/Users/tmc802/Projects/ArrayPractice/ArrayPractice/bin/Debug/netcoreapp2.1/ArrayPractice.deps.json
+/Users/tmc802/Projects/ArrayPractice/ArrayPractice/bin/Debug/netcoreapp2.1/ArrayPractice.runtimeconfig.json
+/Users/tmc802/Projects/ArrayPractice/ArrayPractice/bin/Debug/netcoreapp2.1/ArrayPractice.runtimeconfig.dev.json
+/Users/tmc802/Projects/ArrayPractice/ArrayPractice/bin/Debug/netcoreapp2.1/ArrayPractice.dll
+/Users/tmc802/Projects/ArrayPractice/ArrayPractice/bin/Debug/netcoreapp2.1/ArrayPractice.pdb
+/Users/tmc802/Projects/ArrayPractice/ArrayPractice/obj/Debug/netcoreapp2.1/ArrayPractice.csprojAssemblyReference.cache
+/Users/tmc802/Projects/ArrayPractice/ArrayPractice/obj/Debug/netcoreapp2.1/ArrayPractice.csproj.CoreCompileInputs.cache
+/Users/tmc802/Projects/ArrayPractice/ArrayPractice/obj/Debug/netcoreapp2.1/ArrayPractice.AssemblyInfoInputs.cache
+/Users/tmc802/Projects/ArrayPractice/ArrayPractice/obj/Debug/netcoreapp2.1/ArrayPractice.AssemblyInfo.cs
+/Users/tmc802/Projects/ArrayPractice/ArrayPractice/obj/Debug/netcoreapp2.1/ArrayPractice.dll
+/Users/tmc802/Projects/ArrayPractice/ArrayPractice/obj/Debug/netcoreapp2.1/ArrayPractice.pdb
