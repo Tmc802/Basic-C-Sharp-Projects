@@ -1,0 +1,11 @@
+/Users/tmc802/Projects/VoidMethods/VoidMethods/bin/Debug/netcoreapp2.1/VoidMethods.deps.json
+/Users/tmc802/Projects/VoidMethods/VoidMethods/bin/Debug/netcoreapp2.1/VoidMethods.runtimeconfig.json
+/Users/tmc802/Projects/VoidMethods/VoidMethods/bin/Debug/netcoreapp2.1/VoidMethods.runtimeconfig.dev.json
+/Users/tmc802/Projects/VoidMethods/VoidMethods/bin/Debug/netcoreapp2.1/VoidMethods.dll
+/Users/tmc802/Projects/VoidMethods/VoidMethods/bin/Debug/netcoreapp2.1/VoidMethods.pdb
+/Users/tmc802/Projects/VoidMethods/VoidMethods/obj/Debug/netcoreapp2.1/VoidMethods.csprojAssemblyReference.cache
+/Users/tmc802/Projects/VoidMethods/VoidMethods/obj/Debug/netcoreapp2.1/VoidMethods.csproj.CoreCompileInputs.cache
+/Users/tmc802/Projects/VoidMethods/VoidMethods/obj/Debug/netcoreapp2.1/VoidMethods.AssemblyInfoInputs.cache
+/Users/tmc802/Projects/VoidMethods/VoidMethods/obj/Debug/netcoreapp2.1/VoidMethods.AssemblyInfo.cs
+/Users/tmc802/Projects/VoidMethods/VoidMethods/obj/Debug/netcoreapp2.1/VoidMethods.dll
+/Users/tmc802/Projects/VoidMethods/VoidMethods/obj/Debug/netcoreapp2.1/VoidMethods.pdb

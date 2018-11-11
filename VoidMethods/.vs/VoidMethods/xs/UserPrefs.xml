@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0857FB4D-4B60-453D-A48C-5B7C7FA116AA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VoidMethods/Program.cs">
+    <Files>
+      <File FileName="VoidMethods/Program.cs" Line="13" Column="2" />
+      <File FileName="VoidMethods/MyMethod.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.VoidMethods PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
