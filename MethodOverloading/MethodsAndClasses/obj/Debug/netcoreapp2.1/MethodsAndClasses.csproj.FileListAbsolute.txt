@@ -1,0 +1,11 @@
+/Users/tmc802/Projects/MethodsAndClasses/MethodsAndClasses/bin/Debug/netcoreapp2.1/MethodsAndClasses.deps.json
+/Users/tmc802/Projects/MethodsAndClasses/MethodsAndClasses/bin/Debug/netcoreapp2.1/MethodsAndClasses.runtimeconfig.json
+/Users/tmc802/Projects/MethodsAndClasses/MethodsAndClasses/bin/Debug/netcoreapp2.1/MethodsAndClasses.runtimeconfig.dev.json
+/Users/tmc802/Projects/MethodsAndClasses/MethodsAndClasses/bin/Debug/netcoreapp2.1/MethodsAndClasses.dll
+/Users/tmc802/Projects/MethodsAndClasses/MethodsAndClasses/bin/Debug/netcoreapp2.1/MethodsAndClasses.pdb
+/Users/tmc802/Projects/MethodsAndClasses/MethodsAndClasses/obj/Debug/netcoreapp2.1/MethodsAndClasses.csprojAssemblyReference.cache
+/Users/tmc802/Projects/MethodsAndClasses/MethodsAndClasses/obj/Debug/netcoreapp2.1/MethodsAndClasses.csproj.CoreCompileInputs.cache
+/Users/tmc802/Projects/MethodsAndClasses/MethodsAndClasses/obj/Debug/netcoreapp2.1/MethodsAndClasses.AssemblyInfoInputs.cache
+/Users/tmc802/Projects/MethodsAndClasses/MethodsAndClasses/obj/Debug/netcoreapp2.1/MethodsAndClasses.AssemblyInfo.cs
+/Users/tmc802/Projects/MethodsAndClasses/MethodsAndClasses/obj/Debug/netcoreapp2.1/MethodsAndClasses.dll
+/Users/tmc802/Projects/MethodsAndClasses/MethodsAndClasses/obj/Debug/netcoreapp2.1/MethodsAndClasses.pdb
