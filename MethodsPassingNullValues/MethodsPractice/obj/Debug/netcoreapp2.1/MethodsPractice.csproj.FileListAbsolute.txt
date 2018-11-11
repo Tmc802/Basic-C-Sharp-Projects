@@ -1,0 +1,11 @@
+/Users/tmc802/Projects/MethodsPractice/MethodsPractice/bin/Debug/netcoreapp2.1/MethodsPractice.deps.json
+/Users/tmc802/Projects/MethodsPractice/MethodsPractice/bin/Debug/netcoreapp2.1/MethodsPractice.runtimeconfig.json
+/Users/tmc802/Projects/MethodsPractice/MethodsPractice/bin/Debug/netcoreapp2.1/MethodsPractice.runtimeconfig.dev.json
+/Users/tmc802/Projects/MethodsPractice/MethodsPractice/bin/Debug/netcoreapp2.1/MethodsPractice.dll
+/Users/tmc802/Projects/MethodsPractice/MethodsPractice/bin/Debug/netcoreapp2.1/MethodsPractice.pdb
+/Users/tmc802/Projects/MethodsPractice/MethodsPractice/obj/Debug/netcoreapp2.1/MethodsPractice.csprojAssemblyReference.cache
+/Users/tmc802/Projects/MethodsPractice/MethodsPractice/obj/Debug/netcoreapp2.1/MethodsPractice.csproj.CoreCompileInputs.cache
+/Users/tmc802/Projects/MethodsPractice/MethodsPractice/obj/Debug/netcoreapp2.1/MethodsPractice.AssemblyInfoInputs.cache
+/Users/tmc802/Projects/MethodsPractice/MethodsPractice/obj/Debug/netcoreapp2.1/MethodsPractice.AssemblyInfo.cs
+/Users/tmc802/Projects/MethodsPractice/MethodsPractice/obj/Debug/netcoreapp2.1/MethodsPractice.dll
+/Users/tmc802/Projects/MethodsPractice/MethodsPractice/obj/Debug/netcoreapp2.1/MethodsPractice.pdb
