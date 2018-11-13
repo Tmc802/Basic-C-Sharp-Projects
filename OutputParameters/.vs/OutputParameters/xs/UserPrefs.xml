@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{DE84A4F1-927B-4F9C-8E00-75964A42115D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OutputParameters/MyMethod.cs">
+    <Files>
+      <File FileName="OutputParameters/Program.cs" Line="9" Column="13" />
+      <File FileName="OutputParameters/MyMethod.cs" Line="6" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OutputParameters PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>

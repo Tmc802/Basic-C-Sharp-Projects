@@ -1,0 +1,11 @@
+/Users/tmc802/Projects/OutputParameters/OutputParameters/bin/Debug/netcoreapp2.1/OutputParameters.deps.json
+/Users/tmc802/Projects/OutputParameters/OutputParameters/bin/Debug/netcoreapp2.1/OutputParameters.runtimeconfig.json
+/Users/tmc802/Projects/OutputParameters/OutputParameters/bin/Debug/netcoreapp2.1/OutputParameters.runtimeconfig.dev.json
+/Users/tmc802/Projects/OutputParameters/OutputParameters/bin/Debug/netcoreapp2.1/OutputParameters.dll
+/Users/tmc802/Projects/OutputParameters/OutputParameters/bin/Debug/netcoreapp2.1/OutputParameters.pdb
+/Users/tmc802/Projects/OutputParameters/OutputParameters/obj/Debug/netcoreapp2.1/OutputParameters.csprojAssemblyReference.cache
+/Users/tmc802/Projects/OutputParameters/OutputParameters/obj/Debug/netcoreapp2.1/OutputParameters.csproj.CoreCompileInputs.cache
+/Users/tmc802/Projects/OutputParameters/OutputParameters/obj/Debug/netcoreapp2.1/OutputParameters.AssemblyInfoInputs.cache
+/Users/tmc802/Projects/OutputParameters/OutputParameters/obj/Debug/netcoreapp2.1/OutputParameters.AssemblyInfo.cs
+/Users/tmc802/Projects/OutputParameters/OutputParameters/obj/Debug/netcoreapp2.1/OutputParameters.dll
+/Users/tmc802/Projects/OutputParameters/OutputParameters/obj/Debug/netcoreapp2.1/OutputParameters.pdb
