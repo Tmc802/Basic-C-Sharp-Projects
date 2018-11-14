@@ -4,24 +4,29 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MethodsAndClasses
+namespace OverloadingMethods
 {
     class Program
     {
         static void Main(string[] args)
         {
+            MyNumber num = new MyNumber();
+
             //Method Add
-            MyNumber.Math(a: 3,b: 12);
-            Console.ReadLine();
+            num.A = 3;
+            num.B = 9;
+
+            num.Math(num.A,num.B);
 
             //Method Subtract
-            MyNumber.Math(a: 7,b: 2);
-            Console.ReadLine();
+            num.C = 3;
+            num.D = 7;
+            num.Math(num.C, num.D);
 
             //Method Divide
-            MyNumber.Math(6, 9);
-            Console.ReadLine();
-
+            num.C = 3;
+            num.D = 7;
+            num.Math(num.C, num.D);
         }
     }
 }
