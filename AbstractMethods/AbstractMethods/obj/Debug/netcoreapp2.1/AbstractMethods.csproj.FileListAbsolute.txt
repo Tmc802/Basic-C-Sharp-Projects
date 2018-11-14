@@ -1,0 +1,11 @@
+/Users/tmc802/Projects/AbstractMethods/AbstractMethods/obj/Debug/netcoreapp2.1/AbstractMethods.csprojAssemblyReference.cache
+/Users/tmc802/Projects/AbstractMethods/AbstractMethods/obj/Debug/netcoreapp2.1/AbstractMethods.csproj.CoreCompileInputs.cache
+/Users/tmc802/Projects/AbstractMethods/AbstractMethods/obj/Debug/netcoreapp2.1/AbstractMethods.AssemblyInfoInputs.cache
+/Users/tmc802/Projects/AbstractMethods/AbstractMethods/obj/Debug/netcoreapp2.1/AbstractMethods.AssemblyInfo.cs
+/Users/tmc802/Projects/AbstractMethods/AbstractMethods/bin/Debug/netcoreapp2.1/AbstractMethods.deps.json
+/Users/tmc802/Projects/AbstractMethods/AbstractMethods/bin/Debug/netcoreapp2.1/AbstractMethods.runtimeconfig.json
+/Users/tmc802/Projects/AbstractMethods/AbstractMethods/bin/Debug/netcoreapp2.1/AbstractMethods.runtimeconfig.dev.json
+/Users/tmc802/Projects/AbstractMethods/AbstractMethods/bin/Debug/netcoreapp2.1/AbstractMethods.dll
+/Users/tmc802/Projects/AbstractMethods/AbstractMethods/bin/Debug/netcoreapp2.1/AbstractMethods.pdb
+/Users/tmc802/Projects/AbstractMethods/AbstractMethods/obj/Debug/netcoreapp2.1/AbstractMethods.dll
+/Users/tmc802/Projects/AbstractMethods/AbstractMethods/obj/Debug/netcoreapp2.1/AbstractMethods.pdb
