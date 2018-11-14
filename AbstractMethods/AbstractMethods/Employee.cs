@@ -14,6 +14,3 @@ namespace AbstractMethods
 
     }
 }
-/*
-5. Inside the Main() method, instantiate an Employee object with firstName "Sample" and lastName "Student". Call the SayName() method on the object.
-*/
