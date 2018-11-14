@@ -1,0 +1,11 @@
+/Users/tmc802/Projects/PersonProject/PersonProject/bin/Debug/netcoreapp2.1/PersonProject.deps.json
+/Users/tmc802/Projects/PersonProject/PersonProject/bin/Debug/netcoreapp2.1/PersonProject.runtimeconfig.json
+/Users/tmc802/Projects/PersonProject/PersonProject/bin/Debug/netcoreapp2.1/PersonProject.runtimeconfig.dev.json
+/Users/tmc802/Projects/PersonProject/PersonProject/bin/Debug/netcoreapp2.1/PersonProject.dll
+/Users/tmc802/Projects/PersonProject/PersonProject/bin/Debug/netcoreapp2.1/PersonProject.pdb
+/Users/tmc802/Projects/PersonProject/PersonProject/obj/Debug/netcoreapp2.1/PersonProject.csprojAssemblyReference.cache
+/Users/tmc802/Projects/PersonProject/PersonProject/obj/Debug/netcoreapp2.1/PersonProject.csproj.CoreCompileInputs.cache
+/Users/tmc802/Projects/PersonProject/PersonProject/obj/Debug/netcoreapp2.1/PersonProject.AssemblyInfoInputs.cache
+/Users/tmc802/Projects/PersonProject/PersonProject/obj/Debug/netcoreapp2.1/PersonProject.AssemblyInfo.cs
+/Users/tmc802/Projects/PersonProject/PersonProject/obj/Debug/netcoreapp2.1/PersonProject.dll
+/Users/tmc802/Projects/PersonProject/PersonProject/obj/Debug/netcoreapp2.1/PersonProject.pdb
