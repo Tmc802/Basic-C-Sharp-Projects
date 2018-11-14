@@ -24,8 +24,8 @@ namespace OverloadingMethods
             num.Math(num.C, num.D);
 
             //Method Divide
-            num.C = 3;
-            num.D = 7;
+            num.C = 10;
+            num.D = 2;
             num.Math(num.C, num.D);
         }
     }
