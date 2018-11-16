@@ -1,0 +1,11 @@
+/Users/tmc802/Projects/Enum/Enum/bin/Debug/netcoreapp2.1/Enum.deps.json
+/Users/tmc802/Projects/Enum/Enum/bin/Debug/netcoreapp2.1/Enum.runtimeconfig.json
+/Users/tmc802/Projects/Enum/Enum/bin/Debug/netcoreapp2.1/Enum.runtimeconfig.dev.json
+/Users/tmc802/Projects/Enum/Enum/bin/Debug/netcoreapp2.1/Enum.dll
+/Users/tmc802/Projects/Enum/Enum/bin/Debug/netcoreapp2.1/Enum.pdb
+/Users/tmc802/Projects/Enum/Enum/obj/Debug/netcoreapp2.1/Enum.csprojAssemblyReference.cache
+/Users/tmc802/Projects/Enum/Enum/obj/Debug/netcoreapp2.1/Enum.csproj.CoreCompileInputs.cache
+/Users/tmc802/Projects/Enum/Enum/obj/Debug/netcoreapp2.1/Enum.AssemblyInfoInputs.cache
+/Users/tmc802/Projects/Enum/Enum/obj/Debug/netcoreapp2.1/Enum.AssemblyInfo.cs
+/Users/tmc802/Projects/Enum/Enum/obj/Debug/netcoreapp2.1/Enum.dll
+/Users/tmc802/Projects/Enum/Enum/obj/Debug/netcoreapp2.1/Enum.pdb

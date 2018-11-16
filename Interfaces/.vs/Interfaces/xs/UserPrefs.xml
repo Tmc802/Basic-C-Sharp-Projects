@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{AB428656-AA28-429C-8CA4-A7D5166E46E0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Employee.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interfaces/Program.cs">
     <Files>
       <File FileName="Interfaces/Program.cs" Line="13" Column="13" />
-      <File FileName="Interfaces/IQuittable.cs" Line="23" Column="3" />
-      <File FileName="Employee.cs" Line="7" Column="11" />
+      <File FileName="Interfaces/IQuittable.cs" Line="15" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Interfaces PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />

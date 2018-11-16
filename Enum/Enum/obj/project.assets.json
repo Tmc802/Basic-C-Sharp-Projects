@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tmc802/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Interfaces/Interfaces/Interfaces.csproj",
-      "projectName": "Interfaces",
-      "projectPath": "/Users/tmc802/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Interfaces/Interfaces/Interfaces.csproj",
+      "projectUniqueName": "/Users/tmc802/Projects/Enum/Enum/Enum.csproj",
+      "projectName": "Enum",
+      "projectPath": "/Users/tmc802/Projects/Enum/Enum/Enum.csproj",
       "packagesPath": "/Users/tmc802/.nuget/packages/",
-      "outputPath": "/Users/tmc802/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Interfaces/Interfaces/obj",
+      "outputPath": "/Users/tmc802/Projects/Enum/Enum/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
