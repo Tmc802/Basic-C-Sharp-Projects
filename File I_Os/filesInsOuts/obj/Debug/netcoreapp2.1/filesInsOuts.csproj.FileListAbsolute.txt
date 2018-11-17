@@ -1,0 +1,11 @@
+/Users/tmc802/Projects/filesInsOuts/filesInsOuts/bin/Debug/netcoreapp2.1/filesInsOuts.deps.json
+/Users/tmc802/Projects/filesInsOuts/filesInsOuts/bin/Debug/netcoreapp2.1/filesInsOuts.runtimeconfig.json
+/Users/tmc802/Projects/filesInsOuts/filesInsOuts/bin/Debug/netcoreapp2.1/filesInsOuts.runtimeconfig.dev.json
+/Users/tmc802/Projects/filesInsOuts/filesInsOuts/bin/Debug/netcoreapp2.1/filesInsOuts.dll
+/Users/tmc802/Projects/filesInsOuts/filesInsOuts/bin/Debug/netcoreapp2.1/filesInsOuts.pdb
+/Users/tmc802/Projects/filesInsOuts/filesInsOuts/obj/Debug/netcoreapp2.1/filesInsOuts.csprojAssemblyReference.cache
+/Users/tmc802/Projects/filesInsOuts/filesInsOuts/obj/Debug/netcoreapp2.1/filesInsOuts.csproj.CoreCompileInputs.cache
+/Users/tmc802/Projects/filesInsOuts/filesInsOuts/obj/Debug/netcoreapp2.1/filesInsOuts.AssemblyInfoInputs.cache
+/Users/tmc802/Projects/filesInsOuts/filesInsOuts/obj/Debug/netcoreapp2.1/filesInsOuts.AssemblyInfo.cs
+/Users/tmc802/Projects/filesInsOuts/filesInsOuts/obj/Debug/netcoreapp2.1/filesInsOuts.dll
+/Users/tmc802/Projects/filesInsOuts/filesInsOuts/obj/Debug/netcoreapp2.1/filesInsOuts.pdb
