@@ -1,0 +1,11 @@
+/Users/tmc802/Projects/LambdaExpressions/LambdaExpressions/bin/Debug/netcoreapp2.1/LambdaExpressions.deps.json
+/Users/tmc802/Projects/LambdaExpressions/LambdaExpressions/bin/Debug/netcoreapp2.1/LambdaExpressions.runtimeconfig.json
+/Users/tmc802/Projects/LambdaExpressions/LambdaExpressions/bin/Debug/netcoreapp2.1/LambdaExpressions.runtimeconfig.dev.json
+/Users/tmc802/Projects/LambdaExpressions/LambdaExpressions/bin/Debug/netcoreapp2.1/LambdaExpressions.dll
+/Users/tmc802/Projects/LambdaExpressions/LambdaExpressions/bin/Debug/netcoreapp2.1/LambdaExpressions.pdb
+/Users/tmc802/Projects/LambdaExpressions/LambdaExpressions/obj/Debug/netcoreapp2.1/LambdaExpressions.csprojAssemblyReference.cache
+/Users/tmc802/Projects/LambdaExpressions/LambdaExpressions/obj/Debug/netcoreapp2.1/LambdaExpressions.csproj.CoreCompileInputs.cache
+/Users/tmc802/Projects/LambdaExpressions/LambdaExpressions/obj/Debug/netcoreapp2.1/LambdaExpressions.AssemblyInfoInputs.cache
+/Users/tmc802/Projects/LambdaExpressions/LambdaExpressions/obj/Debug/netcoreapp2.1/LambdaExpressions.AssemblyInfo.cs
+/Users/tmc802/Projects/LambdaExpressions/LambdaExpressions/obj/Debug/netcoreapp2.1/LambdaExpressions.dll
+/Users/tmc802/Projects/LambdaExpressions/LambdaExpressions/obj/Debug/netcoreapp2.1/LambdaExpressions.pdb

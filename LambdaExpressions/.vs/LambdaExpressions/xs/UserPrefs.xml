@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{FD98223B-9FED-4E0C-8AD7-4295E92BDC7F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LambdaExpressions/Program.cs">
+    <Files>
+      <File FileName="LambdaExpressions/Program.cs" Line="100" Column="66" />
+      <File FileName="LambdaExpressions/Employees.cs" Line="14" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LambdaExpressions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
