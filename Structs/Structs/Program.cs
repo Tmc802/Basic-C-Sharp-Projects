@@ -8,6 +8,8 @@ namespace Structs
         {
             Number num = new Number();
             num.Amount = 4;
+
+            Console.WriteLine(num.Amount);
         }
     }
 }
