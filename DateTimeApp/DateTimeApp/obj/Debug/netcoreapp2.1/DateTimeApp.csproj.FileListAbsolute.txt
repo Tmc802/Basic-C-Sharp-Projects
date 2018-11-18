@@ -1,0 +1,11 @@
+/Users/tmc802/Projects/DateTimeApp/DateTimeApp/bin/Debug/netcoreapp2.1/DateTimeApp.deps.json
+/Users/tmc802/Projects/DateTimeApp/DateTimeApp/bin/Debug/netcoreapp2.1/DateTimeApp.runtimeconfig.json
+/Users/tmc802/Projects/DateTimeApp/DateTimeApp/bin/Debug/netcoreapp2.1/DateTimeApp.runtimeconfig.dev.json
+/Users/tmc802/Projects/DateTimeApp/DateTimeApp/bin/Debug/netcoreapp2.1/DateTimeApp.dll
+/Users/tmc802/Projects/DateTimeApp/DateTimeApp/bin/Debug/netcoreapp2.1/DateTimeApp.pdb
+/Users/tmc802/Projects/DateTimeApp/DateTimeApp/obj/Debug/netcoreapp2.1/DateTimeApp.csprojAssemblyReference.cache
+/Users/tmc802/Projects/DateTimeApp/DateTimeApp/obj/Debug/netcoreapp2.1/DateTimeApp.csproj.CoreCompileInputs.cache
+/Users/tmc802/Projects/DateTimeApp/DateTimeApp/obj/Debug/netcoreapp2.1/DateTimeApp.AssemblyInfoInputs.cache
+/Users/tmc802/Projects/DateTimeApp/DateTimeApp/obj/Debug/netcoreapp2.1/DateTimeApp.AssemblyInfo.cs
+/Users/tmc802/Projects/DateTimeApp/DateTimeApp/obj/Debug/netcoreapp2.1/DateTimeApp.dll
+/Users/tmc802/Projects/DateTimeApp/DateTimeApp/obj/Debug/netcoreapp2.1/DateTimeApp.pdb
