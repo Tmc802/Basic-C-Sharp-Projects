@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{2D8E14B7-D376-4187-8FEF-173251460E43}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MoreExceptionHandling/Program.cs">
+    <Files>
+      <File FileName="MoreExceptionHandling/Program.cs" Line="17" Column="31" />
+      <File FileName="MoreExceptionHandling/GeneralException.cs" Line="6" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MoreExceptionHandling PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/tmc802/Projects/MoreExceptionHandling/MoreExceptionHandling/bin/Debug/netcoreapp2.1/MoreExceptionHandling.deps.json
+/Users/tmc802/Projects/MoreExceptionHandling/MoreExceptionHandling/bin/Debug/netcoreapp2.1/MoreExceptionHandling.runtimeconfig.json
+/Users/tmc802/Projects/MoreExceptionHandling/MoreExceptionHandling/bin/Debug/netcoreapp2.1/MoreExceptionHandling.runtimeconfig.dev.json
+/Users/tmc802/Projects/MoreExceptionHandling/MoreExceptionHandling/bin/Debug/netcoreapp2.1/MoreExceptionHandling.dll
+/Users/tmc802/Projects/MoreExceptionHandling/MoreExceptionHandling/bin/Debug/netcoreapp2.1/MoreExceptionHandling.pdb
+/Users/tmc802/Projects/MoreExceptionHandling/MoreExceptionHandling/obj/Debug/netcoreapp2.1/MoreExceptionHandling.csprojAssemblyReference.cache
+/Users/tmc802/Projects/MoreExceptionHandling/MoreExceptionHandling/obj/Debug/netcoreapp2.1/MoreExceptionHandling.csproj.CoreCompileInputs.cache
+/Users/tmc802/Projects/MoreExceptionHandling/MoreExceptionHandling/obj/Debug/netcoreapp2.1/MoreExceptionHandling.AssemblyInfoInputs.cache
+/Users/tmc802/Projects/MoreExceptionHandling/MoreExceptionHandling/obj/Debug/netcoreapp2.1/MoreExceptionHandling.AssemblyInfo.cs
+/Users/tmc802/Projects/MoreExceptionHandling/MoreExceptionHandling/obj/Debug/netcoreapp2.1/MoreExceptionHandling.dll
+/Users/tmc802/Projects/MoreExceptionHandling/MoreExceptionHandling/obj/Debug/netcoreapp2.1/MoreExceptionHandling.pdb
