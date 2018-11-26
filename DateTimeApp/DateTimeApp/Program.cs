@@ -32,7 +32,3 @@ namespace DateTimeApp
         }
     }
 }
-/*
-3. Prints to the console the exact time it will be in X hours, 
-X being the number the user entered in step 2.
-*/
