@@ -1,0 +1,7 @@
+c:\users\tmcin\source\repos\LoopsAndArrays2\LoopsAndArrays2\bin\Debug\LoopsAndArrays2.exe.config
+c:\users\tmcin\source\repos\LoopsAndArrays2\LoopsAndArrays2\bin\Debug\LoopsAndArrays2.exe
+c:\users\tmcin\source\repos\LoopsAndArrays2\LoopsAndArrays2\bin\Debug\LoopsAndArrays2.pdb
+c:\users\tmcin\source\repos\LoopsAndArrays2\LoopsAndArrays2\obj\Debug\LoopsAndArrays2.csprojAssemblyReference.cache
+c:\users\tmcin\source\repos\LoopsAndArrays2\LoopsAndArrays2\obj\Debug\LoopsAndArrays2.csproj.CoreCompileInputs.cache
+c:\users\tmcin\source\repos\LoopsAndArrays2\LoopsAndArrays2\obj\Debug\LoopsAndArrays2.exe
+c:\users\tmcin\source\repos\LoopsAndArrays2\LoopsAndArrays2\obj\Debug\LoopsAndArrays2.pdb
