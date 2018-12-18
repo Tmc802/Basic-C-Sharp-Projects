@@ -1,0 +1,7 @@
+C:\Users\tmcin\source\repos\sortingFunction\sortingFunction\bin\Debug\sortingFunction.exe.config
+C:\Users\tmcin\source\repos\sortingFunction\sortingFunction\bin\Debug\sortingFunction.exe
+C:\Users\tmcin\source\repos\sortingFunction\sortingFunction\bin\Debug\sortingFunction.pdb
+C:\Users\tmcin\source\repos\sortingFunction\sortingFunction\obj\Debug\sortingFunction.csprojAssemblyReference.cache
+C:\Users\tmcin\source\repos\sortingFunction\sortingFunction\obj\Debug\sortingFunction.csproj.CoreCompileInputs.cache
+C:\Users\tmcin\source\repos\sortingFunction\sortingFunction\obj\Debug\sortingFunction.exe
+C:\Users\tmcin\source\repos\sortingFunction\sortingFunction\obj\Debug\sortingFunction.pdb
