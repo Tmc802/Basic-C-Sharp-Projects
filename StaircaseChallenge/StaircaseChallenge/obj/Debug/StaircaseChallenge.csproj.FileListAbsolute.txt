@@ -1,0 +1,7 @@
+C:\Users\tmcin\source\repos\StaircaseChallenge\StaircaseChallenge\bin\Debug\StaircaseChallenge.exe.config
+C:\Users\tmcin\source\repos\StaircaseChallenge\StaircaseChallenge\bin\Debug\StaircaseChallenge.exe
+C:\Users\tmcin\source\repos\StaircaseChallenge\StaircaseChallenge\bin\Debug\StaircaseChallenge.pdb
+C:\Users\tmcin\source\repos\StaircaseChallenge\StaircaseChallenge\obj\Debug\StaircaseChallenge.csprojAssemblyReference.cache
+C:\Users\tmcin\source\repos\StaircaseChallenge\StaircaseChallenge\obj\Debug\StaircaseChallenge.csproj.CoreCompileInputs.cache
+C:\Users\tmcin\source\repos\StaircaseChallenge\StaircaseChallenge\obj\Debug\StaircaseChallenge.exe
+C:\Users\tmcin\source\repos\StaircaseChallenge\StaircaseChallenge\obj\Debug\StaircaseChallenge.pdb
