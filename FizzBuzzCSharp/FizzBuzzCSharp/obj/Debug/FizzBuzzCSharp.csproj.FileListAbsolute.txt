@@ -1,0 +1,7 @@
+C:\Users\tmcin\source\repos\FizzBuzzCSharp\FizzBuzzCSharp\bin\Debug\FizzBuzzCSharp.exe.config
+C:\Users\tmcin\source\repos\FizzBuzzCSharp\FizzBuzzCSharp\bin\Debug\FizzBuzzCSharp.exe
+C:\Users\tmcin\source\repos\FizzBuzzCSharp\FizzBuzzCSharp\bin\Debug\FizzBuzzCSharp.pdb
+C:\Users\tmcin\source\repos\FizzBuzzCSharp\FizzBuzzCSharp\obj\Debug\FizzBuzzCSharp.csprojAssemblyReference.cache
+C:\Users\tmcin\source\repos\FizzBuzzCSharp\FizzBuzzCSharp\obj\Debug\FizzBuzzCSharp.csproj.CoreCompileInputs.cache
+C:\Users\tmcin\source\repos\FizzBuzzCSharp\FizzBuzzCSharp\obj\Debug\FizzBuzzCSharp.exe
+C:\Users\tmcin\source\repos\FizzBuzzCSharp\FizzBuzzCSharp\obj\Debug\FizzBuzzCSharp.pdb
