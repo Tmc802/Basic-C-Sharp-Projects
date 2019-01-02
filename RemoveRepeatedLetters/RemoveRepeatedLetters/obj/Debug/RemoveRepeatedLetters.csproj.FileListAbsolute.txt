@@ -1,0 +1,7 @@
+C:\Users\tmcin\source\repos\RemoveRepeatedLetters\RemoveRepeatedLetters\bin\Debug\RemoveRepeatedLetters.exe.config
+C:\Users\tmcin\source\repos\RemoveRepeatedLetters\RemoveRepeatedLetters\bin\Debug\RemoveRepeatedLetters.exe
+C:\Users\tmcin\source\repos\RemoveRepeatedLetters\RemoveRepeatedLetters\bin\Debug\RemoveRepeatedLetters.pdb
+C:\Users\tmcin\source\repos\RemoveRepeatedLetters\RemoveRepeatedLetters\obj\Debug\RemoveRepeatedLetters.csprojAssemblyReference.cache
+C:\Users\tmcin\source\repos\RemoveRepeatedLetters\RemoveRepeatedLetters\obj\Debug\RemoveRepeatedLetters.csproj.CoreCompileInputs.cache
+C:\Users\tmcin\source\repos\RemoveRepeatedLetters\RemoveRepeatedLetters\obj\Debug\RemoveRepeatedLetters.exe
+C:\Users\tmcin\source\repos\RemoveRepeatedLetters\RemoveRepeatedLetters\obj\Debug\RemoveRepeatedLetters.pdb
