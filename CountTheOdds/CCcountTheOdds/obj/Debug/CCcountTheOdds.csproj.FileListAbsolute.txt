@@ -1,0 +1,7 @@
+C:\Users\tmcin\source\repos\CCcountTheOdds\CCcountTheOdds\bin\Debug\CCcountTheOdds.exe.config
+C:\Users\tmcin\source\repos\CCcountTheOdds\CCcountTheOdds\bin\Debug\CCcountTheOdds.exe
+C:\Users\tmcin\source\repos\CCcountTheOdds\CCcountTheOdds\bin\Debug\CCcountTheOdds.pdb
+C:\Users\tmcin\source\repos\CCcountTheOdds\CCcountTheOdds\obj\Debug\CCcountTheOdds.csprojAssemblyReference.cache
+C:\Users\tmcin\source\repos\CCcountTheOdds\CCcountTheOdds\obj\Debug\CCcountTheOdds.csproj.CoreCompileInputs.cache
+C:\Users\tmcin\source\repos\CCcountTheOdds\CCcountTheOdds\obj\Debug\CCcountTheOdds.exe
+C:\Users\tmcin\source\repos\CCcountTheOdds\CCcountTheOdds\obj\Debug\CCcountTheOdds.pdb
