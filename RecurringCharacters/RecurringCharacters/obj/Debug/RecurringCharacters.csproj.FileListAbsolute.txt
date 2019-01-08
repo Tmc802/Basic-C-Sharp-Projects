@@ -1,0 +1,7 @@
+C:\Users\tmcin\source\repos\RecurringCharacters\RecurringCharacters\bin\Debug\RecurringCharacters.exe.config
+C:\Users\tmcin\source\repos\RecurringCharacters\RecurringCharacters\bin\Debug\RecurringCharacters.exe
+C:\Users\tmcin\source\repos\RecurringCharacters\RecurringCharacters\bin\Debug\RecurringCharacters.pdb
+C:\Users\tmcin\source\repos\RecurringCharacters\RecurringCharacters\obj\Debug\RecurringCharacters.csproj.CoreCompileInputs.cache
+C:\Users\tmcin\source\repos\RecurringCharacters\RecurringCharacters\obj\Debug\RecurringCharacters.exe
+C:\Users\tmcin\source\repos\RecurringCharacters\RecurringCharacters\obj\Debug\RecurringCharacters.pdb
+C:\Users\tmcin\source\repos\RecurringCharacters\RecurringCharacters\obj\Debug\RecurringCharacters.csprojAssemblyReference.cache
