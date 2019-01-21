@@ -19,10 +19,7 @@ namespace Stopwatch
           var newStartTime = button.Start();
 
           button.Stop(newStartTime);
-
-
-          
-            
+          Console.ReadLine();
 
         }
 
@@ -33,11 +30,18 @@ namespace Stopwatch
 
             public DateTime Start()
             {
+                //create new start time equal to datetime.now
                 DateTime startTime = new DateTime();
+                startTime = DateTime.Now;
+
+                //take the hours and minutes from the start time and add them into a new variable
                 var newStartHour = startTime.Hour;
                 var newStartMinute = startTime.Minute;
+
                 var newStartTime = newStartHour + newStartMinute;
-                DateTime officialStartTime = Convert.ToDateTime(newStartTime);
+
+                DateTime.TryParse(newStartTime.ToString(), out var officialStartTime);
+                
                 return officialStartTime;
             }
 
@@ -48,10 +52,12 @@ namespace Stopwatch
                 var newEndMinute = endTime.Minute;
                 var newEndTime = newEndMinute + newEndHour;
 
-                
-                DateTime timeEnd = Convert.ToDateTime(endTime);
+                //declare a new variable inline by parsing the in int.ToString()
+                // and using an out var to create the datetime object
 
-                TimeSpan duration = timeEnd - ST;
+                DateTime.TryParse(newEndTime.ToString(), out var officialEndTime);
+
+                TimeSpan duration = officialEndTime - ST;
              
                 Durations.Add(duration);
 
