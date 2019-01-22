@@ -1,0 +1,7 @@
+C:\Users\tmcin\source\repos\StackOverflowMockPost\StackOverflowMockPost\bin\Debug\StackOverflowMockPost.exe.config
+C:\Users\tmcin\source\repos\StackOverflowMockPost\StackOverflowMockPost\bin\Debug\StackOverflowMockPost.exe
+C:\Users\tmcin\source\repos\StackOverflowMockPost\StackOverflowMockPost\bin\Debug\StackOverflowMockPost.pdb
+C:\Users\tmcin\source\repos\StackOverflowMockPost\StackOverflowMockPost\obj\Debug\StackOverflowMockPost.csprojAssemblyReference.cache
+C:\Users\tmcin\source\repos\StackOverflowMockPost\StackOverflowMockPost\obj\Debug\StackOverflowMockPost.csproj.CoreCompileInputs.cache
+C:\Users\tmcin\source\repos\StackOverflowMockPost\StackOverflowMockPost\obj\Debug\StackOverflowMockPost.exe
+C:\Users\tmcin\source\repos\StackOverflowMockPost\StackOverflowMockPost\obj\Debug\StackOverflowMockPost.pdb
