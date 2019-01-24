@@ -1,0 +1,7 @@
+C:\Users\tmcin\source\repos\upCastingDownCasting\upCastingDownCasting\bin\Debug\upCastingDownCasting.exe.config
+C:\Users\tmcin\source\repos\upCastingDownCasting\upCastingDownCasting\bin\Debug\upCastingDownCasting.exe
+C:\Users\tmcin\source\repos\upCastingDownCasting\upCastingDownCasting\bin\Debug\upCastingDownCasting.pdb
+C:\Users\tmcin\source\repos\upCastingDownCasting\upCastingDownCasting\obj\Debug\upCastingDownCasting.csprojAssemblyReference.cache
+C:\Users\tmcin\source\repos\upCastingDownCasting\upCastingDownCasting\obj\Debug\upCastingDownCasting.csproj.CoreCompileInputs.cache
+C:\Users\tmcin\source\repos\upCastingDownCasting\upCastingDownCasting\obj\Debug\upCastingDownCasting.exe
+C:\Users\tmcin\source\repos\upCastingDownCasting\upCastingDownCasting\obj\Debug\upCastingDownCasting.pdb
