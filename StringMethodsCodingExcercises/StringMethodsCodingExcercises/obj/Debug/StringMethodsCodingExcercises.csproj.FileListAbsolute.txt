@@ -1,0 +1,7 @@
+C:\Users\tmcin\source\repos\StringMethodsCodingExcercises\StringMethodsCodingExcercises\bin\Debug\StringMethodsCodingExcercises.exe.config
+C:\Users\tmcin\source\repos\StringMethodsCodingExcercises\StringMethodsCodingExcercises\bin\Debug\StringMethodsCodingExcercises.exe
+C:\Users\tmcin\source\repos\StringMethodsCodingExcercises\StringMethodsCodingExcercises\bin\Debug\StringMethodsCodingExcercises.pdb
+C:\Users\tmcin\source\repos\StringMethodsCodingExcercises\StringMethodsCodingExcercises\obj\Debug\StringMethodsCodingExcercises.csprojAssemblyReference.cache
+C:\Users\tmcin\source\repos\StringMethodsCodingExcercises\StringMethodsCodingExcercises\obj\Debug\StringMethodsCodingExcercises.csproj.CoreCompileInputs.cache
+C:\Users\tmcin\source\repos\StringMethodsCodingExcercises\StringMethodsCodingExcercises\obj\Debug\StringMethodsCodingExcercises.exe
+C:\Users\tmcin\source\repos\StringMethodsCodingExcercises\StringMethodsCodingExcercises\obj\Debug\StringMethodsCodingExcercises.pdb
