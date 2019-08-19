@@ -1,0 +1,7 @@
+C:\Users\tmcin\source\repos\Inheritance_VS_Composition\Inheritance_VS_Composition\bin\Debug\Inheritance_VS_Composition.exe.config
+C:\Users\tmcin\source\repos\Inheritance_VS_Composition\Inheritance_VS_Composition\bin\Debug\Inheritance_VS_Composition.exe
+C:\Users\tmcin\source\repos\Inheritance_VS_Composition\Inheritance_VS_Composition\bin\Debug\Inheritance_VS_Composition.pdb
+C:\Users\tmcin\source\repos\Inheritance_VS_Composition\Inheritance_VS_Composition\obj\Debug\Inheritance_VS_Composition.csprojAssemblyReference.cache
+C:\Users\tmcin\source\repos\Inheritance_VS_Composition\Inheritance_VS_Composition\obj\Debug\Inheritance_VS_Composition.csproj.CoreCompileInputs.cache
+C:\Users\tmcin\source\repos\Inheritance_VS_Composition\Inheritance_VS_Composition\obj\Debug\Inheritance_VS_Composition.exe
+C:\Users\tmcin\source\repos\Inheritance_VS_Composition\Inheritance_VS_Composition\obj\Debug\Inheritance_VS_Composition.pdb
