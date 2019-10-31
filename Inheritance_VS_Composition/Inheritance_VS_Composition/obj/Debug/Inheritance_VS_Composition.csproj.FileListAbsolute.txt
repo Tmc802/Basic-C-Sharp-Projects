@@ -5,3 +5,10 @@ C:\Users\tmcin\source\repos\Inheritance_VS_Composition\Inheritance_VS_Compositio
 C:\Users\tmcin\source\repos\Inheritance_VS_Composition\Inheritance_VS_Composition\obj\Debug\Inheritance_VS_Composition.csproj.CoreCompileInputs.cache
 C:\Users\tmcin\source\repos\Inheritance_VS_Composition\Inheritance_VS_Composition\obj\Debug\Inheritance_VS_Composition.exe
 C:\Users\tmcin\source\repos\Inheritance_VS_Composition\Inheritance_VS_Composition\obj\Debug\Inheritance_VS_Composition.pdb
+C:\Users\tmcin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Inheritance_VS_Composition\Inheritance_VS_Composition\bin\Debug\Inheritance_VS_Composition.exe.config
+C:\Users\tmcin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Inheritance_VS_Composition\Inheritance_VS_Composition\bin\Debug\Inheritance_VS_Composition.exe
+C:\Users\tmcin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Inheritance_VS_Composition\Inheritance_VS_Composition\bin\Debug\Inheritance_VS_Composition.pdb
+C:\Users\tmcin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Inheritance_VS_Composition\Inheritance_VS_Composition\obj\Debug\Inheritance_VS_Composition.csprojAssemblyReference.cache
+C:\Users\tmcin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Inheritance_VS_Composition\Inheritance_VS_Composition\obj\Debug\Inheritance_VS_Composition.csproj.CoreCompileInputs.cache
+C:\Users\tmcin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Inheritance_VS_Composition\Inheritance_VS_Composition\obj\Debug\Inheritance_VS_Composition.exe
+C:\Users\tmcin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Inheritance_VS_Composition\Inheritance_VS_Composition\obj\Debug\Inheritance_VS_Composition.pdb
